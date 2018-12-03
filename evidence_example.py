@@ -39,6 +39,7 @@ source = EvidenceSource(
 
 
 pharmGKB_id = Property(
+    id="data:2649",
     name="PharmGKB ID",
     value="PA166153760"
 )
