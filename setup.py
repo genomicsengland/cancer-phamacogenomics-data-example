@@ -14,7 +14,7 @@ setup(
     author_email='pablo.ferreiro@genomicsengland.co.uk',
     description='',
     install_requires=[
-        'gelreportmodels==7.1.12',
+        'gelreportmodels==7.1.17',
         'mock',
         'pytest'
     ],
